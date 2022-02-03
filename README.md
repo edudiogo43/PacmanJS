@@ -4,5 +4,11 @@ Pacman game developed in Vanilla Javascript. Still missing a bunch of resources 
 ## License
 MIT License
 
+## How to install
+Just clone the repository and open the index.html on your browser.
+
+## Example
+<img src="img.png" />
+
 ## Author
 Eduardo Diogo Garcia / eduardo.diogo@gmail.com
